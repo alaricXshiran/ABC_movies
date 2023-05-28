@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "title": {}
+    },
+    "attributes": {
+        "action": {
+            "context": "input"
+        }
+    }
+}
